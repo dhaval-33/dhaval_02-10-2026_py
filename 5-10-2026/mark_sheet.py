@@ -10,5 +10,5 @@ c=int(input("Enter a maths marks:"))
 d=a+b+c
 e=d/3
 print(f"Total marks:{d} ")
-print(f"Total pr:{e} ")
+print(f"Total pr:{e:.2f} ")
 
